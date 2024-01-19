@@ -7,10 +7,14 @@ Features
 Task Management: Add, edit, and delete todos seamlessly.
 
 Daily Tracker: Keep track of uncompleted tasks for each day.
-
+Read Todos: Retrieve a list of all todos or a specific todo by ID.
 Monthly Profile Graph: Visualize monthly activity with a profile graph.
 
 Tech Stack
+Stack
+Node.js
+Express.js
+MongoDB Atlas
 React Native
 React Router
 useState
